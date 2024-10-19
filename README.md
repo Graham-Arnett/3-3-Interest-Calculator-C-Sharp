@@ -1,0 +1,1 @@
+Still practicing C# and Java. One thing I want to come back here and fix is seeing if I can make it so that the percent shows up to three decimal places, but doesn't bother showing them if empty.  I'd have to find a way to check the decimal places.
